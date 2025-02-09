@@ -8,14 +8,14 @@ from typing import Callable, Dict, Optional
 
 from .memory import MemoryManager
 
-from SeruceShield.Chatbot.Chains.Prompt_Injection_Tolerance import IsPromptInjection
+from Chatbot.Chains.Prompt_Injection_Tolerance import IsPromptInjection
 
-from Chains.Get_Claim_Info import GetClaimInfoChain
-from Chains.Get_Policy_Info import GetPolicyInfoChain
-from Chains.Update_Claim_Status import UpdateClaimStatusChain
+from Chatbot.Chains.Get_Claim_Info import GetClaimInfoChain
+from Chatbot.Chains.Get_Policy_Info import GetPolicyInfoChain
+from Chatbot.Chains.Update_Claim_Status import UpdateClaimStatusChain
 #from chatbot.chains.router import RouterChain
 from router.loader import load_intention_classifier
-from Chains.Chitchat import ChitChatResponseChain, ChitChatClassifierChain
+from Chatbot.Chains.Chitchat import ChitChatResponseChain, ChitChatClassifierChain
 from rag import RagChain
 
 from langchain_core.runnables.history import RunnableWithMessageHistory
