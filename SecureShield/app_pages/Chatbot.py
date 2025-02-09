@@ -38,7 +38,6 @@ else:
         with st.chat_message(message["role"], avatar=avatar):
             st.markdown(message["content"])
 
-     load_dotenv()
     # Accept user input
     if user_input := st.chat_input("Chat with SecureShield Chatbot"):
         # Add user message to chat history
