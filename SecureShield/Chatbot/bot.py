@@ -6,7 +6,7 @@ sys.path.append('SecureShield/secure_shield.db')
 #cursor = con.cursor()
 from typing import Callable, Dict, Optional
 
-from Chatbot.memory import MemoryManager
+from .memory import MemoryManager
 
 from Chains.Prompt_Injection_Tolerance import IsPromptInjection
 
