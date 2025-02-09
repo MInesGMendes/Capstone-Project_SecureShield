@@ -1,9 +1,9 @@
 import streamlit as st
 import time
 from SecureShield.Chatbot.bot import MainChatbot  # Import the chatbot class
-
 import sqlitecloud  
-
+from dotenv import load_dotenv
+load_dotenv()
 
 # Function to check authentication
 def check_auth():
