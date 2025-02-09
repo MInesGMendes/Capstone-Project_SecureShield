@@ -8,7 +8,7 @@ from typing import Callable, Dict, Optional
 
 from .memory import MemoryManager
 
-from Chains.Prompt_Injection_Tolerance import IsPromptInjection
+from SecureShield.Chains.Prompt_Injection_Tolerance import IsPromptInjection
 
 from Chains.Get_Claim_Info import GetClaimInfoChain
 from Chains.Get_Policy_Info import GetPolicyInfoChain
