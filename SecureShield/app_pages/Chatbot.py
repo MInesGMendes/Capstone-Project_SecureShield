@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-from chatbot.bot import MainChatbot  # Import the chatbot class
+from Chatbot.bot import MainChatbot  # Import the chatbot class
 import sqlitecloud  
 
 
