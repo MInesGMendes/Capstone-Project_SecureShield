@@ -1,4 +1,4 @@
-import sqlitecloud
+import sqlite3
 import streamlit as st
 import time
 
