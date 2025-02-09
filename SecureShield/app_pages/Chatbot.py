@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 from SecureShield.Chatbot.bot import MainChatbot  # Import the chatbot class
-from memory import MemoryManager
+from Chains.router.memory import MemoryManager
 import sqlitecloud  
 
 
