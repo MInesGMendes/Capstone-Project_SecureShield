@@ -1,6 +1,5 @@
 import streamlit as st
 import time
-from dotenv import load_dotenv
 from chatbot.bot import MainChatbot  # Import the chatbot class
 import sqlitecloud  
 
