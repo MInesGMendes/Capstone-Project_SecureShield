@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-from Chatbot.bot import MainChatbot  # Import the chatbot class
+from SecureShield.Chatbot.bot import MainChatbot  # Import the chatbot class
 import sqlitecloud  
 
 
