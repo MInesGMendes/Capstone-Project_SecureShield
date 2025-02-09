@@ -1,0 +1,21 @@
+first_name,last_name,email,password,role
+Samantha,Smith,samantha.smith@example.com,P@ssw0rd,Manager
+Michael,Johnson,michael.johnson@example.com,P@ssw0rd,Claims Adjuster
+Emily,Davis,emily.davis@example.com,P@ssw0rd,Manager
+Daniel,Martinez,daniel.martinez@example.com,P@ssw0rd,Claims Adjuster
+Jennifer,Lee,jennifer.lee@example.com,P@ssw0rd,Manager
+Ryan,Garcia,ryan.garcia@example.com,P@ssw0rd,Claims Adjuster
+Lauren,Nguyen,lauren.nguyen@example.com,P@ssw0rd,Manager
+Christopher,Taylor,christopher.taylor@example.com,P@ssw0rd,Claims Adjuster
+Amanda,Clark,amanda.clark@example.com,P@ssw0rd,Manager
+Brandon,Lopez,brandon.lopez@example.com,P@ssw0rd,Claims Adjuster
+Kayla,Adams,kayla.adams@example.com,P@ssw0rd,Manager
+Joshua,Hernandez,joshua.hernandez@example.com,P@ssw0rd,Claims Adjuster
+Sarah,Gonzalez,sarah.gonzalez@example.com,P@ssw0rd,Manager
+Kevin,Perez,kevin.perez@example.com,P@ssw0rd,Claims Adjuster
+Rachel,Evans,rachel.evans@example.com,P@ssw0rd,Manager
+Tyler,Rivera,tyler.rivera@example.com,P@ssw0rd,Claims Adjuster
+Lindsey,Baker,lindsey.baker@example.com,P@ssw0rd,Manager
+Ethan,Torres,ethan.torres@example.com,P@ssw0rd,Claims Adjuster
+Megan,Morris,megan.morris@example.com,P@ssw0rd,Manager
+Justin,Ward,justin.ward@example.com,P@ssw0rd,Claims Adjuster
