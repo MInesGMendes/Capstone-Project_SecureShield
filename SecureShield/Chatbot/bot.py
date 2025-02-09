@@ -13,7 +13,6 @@ from Chatbot.Chains.Prompt_Injection_Tolerance import IsPromptInjection
 from Chatbot.Chains.Get_Claim_Info import GetClaimInfoChain
 from Chatbot.Chains.Get_Policy_Info import GetPolicyInfoChain
 from Chatbot.Chains.Update_Claim_Status import UpdateClaimStatusChain
-#from chatbot.chains.router import RouterChain
 from router.loader import load_intention_classifier
 from Chatbot.Chains.Chitchat import ChitChatResponseChain, ChitChatClassifierChain
 from rag import RagChain
