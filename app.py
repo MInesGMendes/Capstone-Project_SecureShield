@@ -31,7 +31,7 @@ if st.session_state['logged_in']:
 else:
     # Include Login and Register pages for logged-out users
     pages = {
-        "ShelfMate": [
+        "SecureShield": [
             st.Page("SecureShield/app_pages/Chatbot.py", title="Chatbot", icon="🤖"),
             st.Page("SecureShield/app_pages/Login.py", title="Log in", icon="🔓")
         ]
