@@ -3,8 +3,7 @@ import time
 from dotenv import load_dotenv
 from chatbot.bot import MainChatbot  # Import the chatbot class
 import sqlitecloud  
-# Load environment variables
-load_dotenv()
+
 
 # Function to check authentication
 def check_auth():
